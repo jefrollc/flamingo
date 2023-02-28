@@ -1,5 +1,10 @@
 data/
 raw/
+pyproject.toml
+*.db
+*.db-wal
+*.db-shm
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/vim,macos,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=vim,macos,python
